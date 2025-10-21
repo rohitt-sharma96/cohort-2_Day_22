@@ -19,7 +19,7 @@ body {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-template-areas: "aside hero hero hero" "aside left bottom right";
-  gap: 30px;
+  gap: 15px;
 }
 .main .aside {
   grid-area: aside;
